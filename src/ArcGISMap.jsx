@@ -20,7 +20,7 @@ function ArcGISMap() {
 
       const view = new MapView({
         map: map,
-        center: [135.5023, 34.6937], // Longitude, latitude for OSAKA
+        center: [-118.3526, 34.0012], // Longitude, latitude for West LA
         zoom: 11,
         container: 'viewDiv' // ID of the HTML container element
       });
