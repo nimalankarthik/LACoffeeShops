@@ -1,4 +1,4 @@
-# 🗺️ Explore LA Coffee Shops on the Map ([https://vercel.com/nimalank/la-coffee-shops](https://la-coffee-shops.vercel.app/))
+# 🗺️ Explore LA Coffee Shops on the Map (https://la-coffee-shops.vercel.app/)
 
 Application: LA Coffee Shops Map
 
