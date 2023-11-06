@@ -9,8 +9,11 @@ I'm excited to share a project I've been working on. It's an interactive map app
 Tech Stack:
 
 ⚛️ React: The application is built using React, a popular JavaScript library for building user interfaces.
+
 🚀 Vite: We used Vite for fast and efficient development and bundling.
+
 🌐 ESRI JavaScript API: The core of our application relies on ESRI's JavaScript API, which provides powerful mapping and geospatial capabilities.
+
 Features:
 
 🗺️ Interactive Map: The heart of this application is an interactive map that showcases the West LA area.
