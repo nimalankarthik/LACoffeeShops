@@ -1,4 +1,4 @@
-# 🗺️ Explore LA Coffee Shops on the Map
+# 🗺️ Explore LA Coffee Shops on the Map (https://vercel.com/nimalank/la-coffee-shops)
 
 Application: LA Coffee Shops Map
 
@@ -40,7 +40,7 @@ This project wouldn't have been possible without ESRI's "Find Locations in LA We
 
 Please check out the application and let me know what you think! Your feedback is valuable as we continue to improve and enhance this mapping experience.
 
-Explore LA Coffee Shops Map ➡️ Here
+Explore LA Coffee Shops Map Here ➡️ https://vercel.com/nimalank/la-coffee-shops
 
 Feel free to reach out if you have any questions or if you'd like to discuss the development process in more detail.
 
