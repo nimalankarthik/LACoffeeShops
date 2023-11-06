@@ -4,7 +4,7 @@ Application: LA Coffee Shops Map
 
 Overview:
 
-Hello, LinkedIn community! I'm excited to share a project I've been working on. It's an interactive map application that helps you discover coffee shops in Los Angeles, specifically in the vibrant area of West LA. Let me take you through the key details of this project:
+I'm excited to share a project I've been working on. It's an interactive map application that helps you discover coffee shops in Los Angeles, specifically in the vibrant area of West LA. Let me take you through the key details of this project:
 
 Tech Stack:
 
