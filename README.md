@@ -25,15 +25,18 @@ Features:
 🕒 Travel Times: The application goes a step further by showing you how long it takes to reach various places from the selected coffee shop. It displays three different shades of blue to represent different travel times:
 
 🏁 Dark Blue: Within 5 minutes
+
 🏁 Medium Blue: Within 10 minutes
+
 🏁 Light Blue: Within 15 minutes
+
 Deployment:
 
-We've deployed this application on Vercel. The deployment process was smooth, and it allows you to experience the app in your browser. Feel free to explore the coffee shops and their surroundings right now!
+I've deployed this application on Vercel. The deployment process was smooth, and it allows you to experience the app in your browser. Feel free to explore the coffee shops and their surroundings right now!
 
 Credits:
 
-This project wouldn't have been possible without ESRI's "Find Locations in LA West Coffee Shops" services API, which provides the data for the coffee shop locations and the travel time calculations. A big shoutout to ESRI for their amazing API.
+This project wouldn't have been possible without ESRI's "Find Locations in LA West Coffee Shops" services API and tutorials on the documentation page, which provides the data for the coffee shop locations and the travel time calculations.
 
 Please check out the application and let me know what you think! Your feedback is valuable as we continue to improve and enhance this mapping experience.
 
