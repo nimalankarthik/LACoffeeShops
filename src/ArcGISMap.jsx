@@ -17,7 +17,7 @@ function ArcGISMap() {
       "esri/rest/route",
       "esri/rest/support/RouteParameters"
     ]).then(([esriConfig, Map, MapView, serviceArea, ServiceAreaParams, FeatureSet, Graphic, FeatureLayer, PopupTemplate, route, RouteParameters]) => {
-      esriConfig.apiKey = 'AAPK2611c08aa7764a6c83c094d340e63b7bCP-py9sFcQZBsfKLsJG4ZekGB7SaJ5x1TTY-pv2T_Upv4q2gtxagAcfmRDppb7pV';
+      esriConfig.apiKey = process.env.ESRI_API_KEY;
 
       const map = new Map({
         basemap: 'arcgis/navigation' // Replace with the desired basemap
